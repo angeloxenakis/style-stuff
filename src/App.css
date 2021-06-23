@@ -1,0 +1,15 @@
+.App {
+    width: 80%;
+    margin: auto
+}
+
+.square-container {
+    display:flex;
+    justify-content: space-around;
+}
+
+.square {
+    height: 80px;
+    width: 80px;
+    background-color: green;
+}
